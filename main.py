@@ -6,7 +6,6 @@ from tkinter import filedialog
 # IMPORT FOR DETECTING FACES (MAIN FUNCTION)
 import face_recognition
 
-
 # PROGRAMME CLASS - ONLY 1 NEEDED (MAIN PROGRAMME)
 class App:
     def __init__(self, root):
